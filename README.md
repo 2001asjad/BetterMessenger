@@ -4,12 +4,10 @@
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+This is a code repository in which I created a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+The frontend has been designed with React and login with Google and facebook accounts has been linked as well [Deployed on Netlify](https://bettermessenger.netlify.app/chatso)
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+Firebase and Chat Engine tools have been used for database functionality!
 
-### Bonus - E-mail notifications
 
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
