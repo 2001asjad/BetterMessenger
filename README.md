@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Sample Screenshot](https://user-images.githubusercontent.com/60435499/133309747-958e31c1-c6ee-40d7-b837-e7af6360e508.png)
 
 ## Introduction
 
